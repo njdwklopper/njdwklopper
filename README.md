@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Natie Jonathan Klopper!</h2>
+<h2> Hi there, I'm n@ie!</h2>
 
 ### <img src="https://avatars1.githubusercontent.com/u/20532948?s=120&v=4" width="50"> A little more about me...  
 
